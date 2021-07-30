@@ -1,7 +1,7 @@
 # LetmeAsk
 
 <p align="center">
-   <img src="src/assets/images/room1.png">  
+   <img width="480" src="src/assets/images/room1.png">  
 </p>
 
 <p align="center">
