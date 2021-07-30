@@ -16,6 +16,7 @@
    <li>Firebase</li>
    <li>TypeScript</li>
 </ul>
+</br></br></br>
 <p align="center">
    <img src="src/assets/images/room3.png">  
 </p>
