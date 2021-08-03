@@ -15,7 +15,7 @@
 <h2>Projeto</h2>
 <p>Letmeask é um projeto criado para que pessoas possam criar salas de Q&A com o seu público, de uma forma facil, pratica e organizada.</p>
 </br>
-<p>Este é um projeto desenvolvido durante a Next Level Week Together, apresentada dos dias 20 a 27 de Junho de 2021.</p>
+<p>Este é um projeto desenvolvido durante a <strong>Next Level Week Together</strong>, apresentada dos dias 20 a 27 de Junho de 2021.</p>
 </br></br></br>
 
 
